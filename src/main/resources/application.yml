@@ -1,0 +1,6 @@
+langchain4j:
+  open-ai:
+    chat-model:
+      base-url: https://openrouter.ai/api/v1
+      api-key: {Insert Api-key}
+      model-name: mistralai/mistral-small-3.1-24b-instruct:free
